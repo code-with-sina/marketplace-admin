@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Http;
 
 class AdminAuthorityController extends Controller
 {
-    //
+    //hello world 
 
     public function generateToken() {
 
